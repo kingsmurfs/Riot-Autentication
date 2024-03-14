@@ -9,7 +9,8 @@ Python installed on your system
 
 Necessary Python packages installed (requests)
 
-How to Use
+
+# How to Use
 
 Clone the repository or download the script.
 
